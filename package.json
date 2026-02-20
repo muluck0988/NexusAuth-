@@ -1,0 +1,12 @@
+{
+  "name": "nexus-beams-api",
+  "version": "1.0.0",
+  "description": "Nexus Beams X API (Pure Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
